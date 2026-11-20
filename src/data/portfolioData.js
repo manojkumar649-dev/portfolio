@@ -9,8 +9,8 @@ export const personalInfo = {
   email: "m64938096@gmail.com",
   github: "https://github.com/manojkumar649-dev",
   githubUsername: "manojkumar649-dev",
-  linkedin: "https://linkedin.com/in/manojkumar",
-  linkedinUsername: "manojkumar",
+  linkedin: "https://www.linkedin.com/in/manoj-kumar-4b4555323/",
+  linkedinUsername: "manoj-kumar-4b4555323",
   summary:
     "Entry-level Python Full Stack Developer with hands-on project experience building database-driven web applications using Python, Django, React.js, REST APIs, SQLite, and Tailwind CSS. Skilled in developing CRUD functionality, admin dashboards, and responsive user interfaces. BBA graduate with a business background that supports building billing, subscription, and management systems.",
   currentlyLearning: "Advanced Django ORM, Scalable REST APIs & Cloud Deployment",
